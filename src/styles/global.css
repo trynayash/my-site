@@ -1,0 +1,5 @@
+$w.onReady(() => {
+    $w('#header').style.backgroundColor = "#222";
+    $w('#header').style.color = "#fff";
+  });
+  
